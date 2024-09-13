@@ -10,7 +10,7 @@ This repository is dedicated to exploring and implementing few-shot and zero-sho
 
 Through this repository, we aim to provide implementations, tutorials, and insights into leveraging these techniques for real-world applications. By using meta-learning, transfer learning, and large pre-trained models, we strive to develop robust solutions for scenarios with limited data.
 
-https://www.searchunify.com/wp-content/uploads/2023/07/zero-shot-vs-few-shot-prompt-engineering-which-one-is-the-best-for-your-business-inner1.jpg
+![ShLg](https://www.searchunify.com/wp-content/uploads/2023/07/zero-shot-vs-few-shot-prompt-engineering-which-one-is-the-best-for-your-business-inner1.jpg)
 
 # Features
 
@@ -37,7 +37,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/few-shot-zero-shot-learning.git
+git clone https://github.com/MohammadMaftoun/Few-Shot-and-Zero-Shot-Learning-Techniques.git
 cd few-shot-zero-shot-learning
 
 Install dependencies:
@@ -125,4 +125,4 @@ Contributions are welcome! If you would like to improve this repository, please 
 # GitHub Repository Address
 
 Find the repository here:
-https://github.com/your-username/few-shot-zero-shot-learning
+https://github.com/MohammadMaftoun/Few-Shot-and-Zero-Shot-Learning-Techniques
