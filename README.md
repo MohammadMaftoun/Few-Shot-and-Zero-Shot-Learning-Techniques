@@ -4,9 +4,9 @@
 
 This repository is dedicated to exploring and implementing few-shot and zero-shot learning techniques—two advanced methods in machine learning that address the challenges of limited labeled data.
 
-    Few-shot learning: A technique where models learn to make predictions with only a small number of labeled examples. This is especially useful in scenarios where gathering large datasets is impractical or expensive.
+    Few-shot learning: A technique where models learn to make predictions with only a few labeled examples. This is especially useful when gathering large datasets is impractical or expensive.
 
-    Zero-shot learning: This method allows models to perform tasks without having seen any examples of the task or class. Instead, the model generalizes knowledge from similar tasks or semantic relationships, enabling it to recognize and act on unseen categories.
+    Zero-shot learning: This method allows models to perform tasks without seeing examples of the task or class. Instead, the model generalizes knowledge from similar tasks or semantic relationships, enabling it to recognize and act on unseen categories.
 
 Through this repository, we aim to provide implementations, tutorials, and insights into leveraging these techniques for real-world applications. By using meta-learning, transfer learning, and large pre-trained models, we strive to develop robust solutions for scenarios with limited data.
 
@@ -59,7 +59,7 @@ bash
 Usage
 Training a Few-Shot Model
 
-To train a few-shot learning model on your own dataset:
+To train a few-shot learning model on your dataset:
 
 bash
 
@@ -92,7 +92,7 @@ You can use various open-source datasets to experiment with few-shot and zero-sh
     miniImageNet: A benchmark dataset for few-shot classification.
     CIFAR-FS: A few-shot learning variant of CIFAR-100.
     Omniglot: For evaluating the performance of few-shot learning models.
-    Custom Datasets: Instructions on how to add your own datasets are provided.
+    Custom Datasets: Instructions on how to add your datasets are provided.
 
 # Model Architectures
 
