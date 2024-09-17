@@ -4,11 +4,11 @@
 
 This repository is dedicated to exploring and implementing few-shot and zero-shot learning techniques—two advanced methods in machine learning that address the challenges of limited labeled data.
 
-    Few-shot learning: A technique where models learn to make predictions with only a few labeled examples. This is especially useful when gathering large datasets is impractical or expensive.
+    Few-shot learning: A technique where models learn to make predictions with only a few labeled examples. This is especially useful when gathering large datasets, which is impractical or expensive.
 
     Zero-shot learning: This method allows models to perform tasks without seeing examples of the task or class. Instead, the model generalizes knowledge from similar tasks or semantic relationships, enabling it to recognize and act on unseen categories.
 
-Through this repository, we aim to provide implementations, tutorials, and insights into leveraging these techniques for real-world applications. By using meta-learning, transfer learning, and large pre-trained models, we strive to develop robust solutions for scenarios with limited data.
+This repository aims to provide implementations, tutorials, and insights into leveraging these techniques for real-world applications. By using meta-learning, transfer learning, and large pre-trained models, we strive to develop robust solutions for scenarios with limited data.
 
 ![ShLg](https://www.searchunify.com/wp-content/uploads/2023/07/zero-shot-vs-few-shot-prompt-engineering-which-one-is-the-best-for-your-business-inner1.jpg)
 
@@ -17,7 +17,7 @@ Through this repository, we aim to provide implementations, tutorials, and insig
     Implementations of state-of-the-art few-shot and zero-shot learning algorithms.
     Preprocessing pipelines for data preparation and feature extraction.
     Ready-to-use scripts for model training, evaluation, and hyperparameter tuning.
-    Example notebooks applying these techniques to real-world tasks.
+    Example notebooks are applying these techniques to real-world tasks.
     Performance comparisons between traditional machine learning models and few-shot/zero-shot models.
 
 # Getting Started
