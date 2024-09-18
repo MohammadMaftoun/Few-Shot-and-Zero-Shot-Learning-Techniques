@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository is dedicated to exploring and implementing few-shot and zero-shot learning techniques—two advanced methods in machine learning that address the challenges of limited labeled data.
+This repository is dedicated to exploring and implementing few-shot and zero-shot learning techniques—two advanced methods in machine learning that handle the challenges of limited labeled data.
 
     Few-shot learning: A technique where models learn to make predictions with only a few labeled examples. This is especially useful when gathering large datasets, which is impractical or expensive.
 
@@ -17,7 +17,7 @@ This repository aims to provide implementations, tutorials, and insights into le
     Implementations of state-of-the-art few-shot and zero-shot learning algorithms.
     Preprocessing pipelines for data preparation and feature extraction.
     Ready-to-use scripts for model training, evaluation, and hyperparameter tuning.
-    Example notebooks are applying these techniques to real-world tasks.
+    Example notebooks apply these techniques to real-world tasks.
     Performance comparisons between traditional machine learning models and few-shot/zero-shot models.
 
 # Getting Started
