@@ -17,7 +17,7 @@ This repository aims to provide implementations, tutorials, and insights into le
     Implementations of state-of-the-art few-shot and zero-shot learning algorithms.
     Preprocessing pipelines for data preparation and feature extraction.
     Ready-to-use scripts for model training, evaluation, and hyperparameter tuning.
-    Example notebooks apply these techniques to real-world tasks.
+    For example, notebooks apply these techniques to real-world tasks.
     Performance comparisons between traditional machine learning models and few-shot/zero-shot models.
 
 # Getting Started
