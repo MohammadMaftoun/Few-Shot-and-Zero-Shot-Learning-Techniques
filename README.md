@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository is dedicated to exploring and implementing few-shot and zero-shot learning techniques—two advanced methods in machine learning that handle the challenges of limited labeled data.
+This repository is dedicated to exploring and implementing few-shot and zero-shot learning techniques—two advanced techniques in machine learning that handle the challenges of limited labeled data.
 
     Few-shot learning: A technique where models learn to make predictions with only a few labeled examples. This is especially useful when gathering large datasets, which is impractical or expensive.
 
@@ -119,7 +119,7 @@ Contributions are welcome! If you would like to improve this repository, please 
     Fork the repository.
     Create a new branch (git checkout -b feature-branch).
     Commit your changes (git commit -am 'Add new feature').
-    Push the branch (git push origin feature-branch).
+    Push the branch (git push origin feature branch).
     Open a pull request.
 
 # GitHub Repository Address
