@@ -4,7 +4,7 @@
 
 This repository is dedicated to exploring and implementing few-shot and zero-shot learning techniques, two advanced machine learning techniques that handle the challenges of limited labeled data.
 
-    Few-shot learning: A method where models learn to make predictions with only a few labeled examples. This is especially useful when gathering large datasets, which is impractical or expensive.
+    Few-shot learning: A method where models learn to make predictions with only a few labeled examples. This is especially useful when gathering large, unusable, or expensive datasets.
 
     Zero-shot learning: This method allows models to perform tasks without seeing examples of the task or class. Instead, the model generalizes knowledge from similar tasks or semantic relationships, enabling it to recognize and act on unseen categories.
 
