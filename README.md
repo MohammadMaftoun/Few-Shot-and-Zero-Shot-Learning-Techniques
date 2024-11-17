@@ -8,7 +8,7 @@ This repository is dedicated to exploring and implementing few-shot and zero-sho
 
     Zero-shot learning: This method allows models to perform tasks without seeing examples of the task or class. Instead, the model generalizes knowledge from similar tasks or semantic relationships, enabling it to recognize and act on unseen categories.
 
-This repository aims to provide implementations, tutorials, and insights into leveraging these techniques for real-world applications. By using meta-learning, transfer learning, and large pre-trained models, we strive to develop strong solutions for scenarios with limited data.
+This repository aims to provide implementations, tutorials, and insights into leveraging these methods for real-world applications. By using meta-learning, transfer learning, and large pre-trained models, we strive to develop strong solutions for scenarios with limited data.
 
 ![ShLg](https://www.searchunify.com/wp-content/uploads/2023/07/zero-shot-vs-few-shot-prompt-engineering-which-one-is-the-best-for-your-business-inner1.jpg)
 
