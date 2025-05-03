@@ -89,7 +89,7 @@ python zero_shot.py --model CLIP --task image-classification
 
 You can use various open-source datasets to experiment with few-shot and zero-shot learning. Below are some popular datasets included in this repository:
 
-    miniImageNet: A benchmark dataset for few-shot classification.
+    MiniImageNet: A benchmark dataset for few-shot classification.
     CIFAR-FS: A few-shot learning variant of CIFAR-100.
     Omniglot: For evaluating the performance of few-shot learning models.
     Custom Datasets: Instructions on how to add your datasets are provided.
@@ -109,7 +109,7 @@ This repository implements and experiments with several few-shot and zero-shot l
 We provide a detailed comparison of few-shot and zero-shot learning techniques on various datasets. The repository includes:
 
     Performance metrics such as accuracy, precision, recall, and F1-score.
-    Analysis of how each model generalizes to new unseen tasks.
+    Analysis of how each model generalizes to new, unseen tasks.
     Hyperparameter tuning strategies and their impact on model performance.
 
 # Contributing
